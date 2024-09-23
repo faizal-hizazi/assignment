@@ -1,0 +1,25 @@
+.btnlayout{
+    /* width: 476px;
+  height: 45px; */
+  /* top: 232px;
+  left: 359px; */
+  /* gap: 0px; */
+  border-radius: 3px 0px 0px 0px;
+  opacity: 0px;
+  color:  #999999;
+  background-color: #E0E0E0
+  ;
+  
+  }
+  .emailInput{
+    border: 1px solid #EEEEEE
+  }
+  
+  .activetoggle{
+    background-color: #FFB100 !important;
+    color:black !important;
+  
+  }
+  .font12{
+    font-size:12px ;
+  }
